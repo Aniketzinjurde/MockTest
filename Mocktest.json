@@ -11,7 +11,7 @@
                          "C" : "37th Amendment Act",
                          "D" : "38th Amendment Act"
             },
-            "correctAnswer" : "A:35th Amendment Act",
+            "correctAnswer" : "A",
             "Note" : "Constitution (35th) Amendment Act, 1974 terminated the protectorate status of Sikkim and conferred on it the status of an associate state of the Indian Union. The Tenth Schedule was added laying down the terms and conditions of association of Sikkim with the Indian Union."
         },
         {
@@ -23,7 +23,7 @@
                          "C" : "Indian Independence Act, 1947",
                          "D" : "Government of India Act, 1935"
             },
-            "correctAnswer" : "D: [Government of India Act, 1935]",
+            "correctAnswer" : "D",
             "Note" : "The Government of India Act of 1935 extended the principal of communal representation by providing separate electorates for depressed classes (scheduled castes), women and labour (workers). Indian Councils Act, 1909 also introduced the system of separate electorates for Muslims."
         },
         {
@@ -35,7 +35,7 @@
                          "C" : "Clement Attlee",
                          "D" : "Rajendra Prasad"
             },
-            "correctAnswer" : "[ Lord Mountbatten ]",
+            "correctAnswer" : "B",
             "Note" : "After India and Pakistan attained independence at midnight on the night of 14–15 August 1947, Louis Mountbatten served as the first governor general of an independent India until June 1948."
         },
         {
@@ -47,7 +47,7 @@
                          "C" : "LIC of India Case",
                          "D" : "Golaknath Case"
             },
-            "correctAnswer" : "Berubari Union Case",
+            "correctAnswer" : "A",
             "Note" : "In the Berubari union Case Supreme Court held that Preamble is not a part of the Constitution of India. The Supreme Court gave its judgment in the year 1960."
         },
         {
@@ -59,7 +59,7 @@
                          "C" : "Kesvananda Bharti Case",
                          "D" : " SR Bommai Case"
             },
-            "correctAnswer" : "Kesvananda Bharti Case",
+            "correctAnswer" : "C",
             "Note" : "In Keshvananda Bharti Case Supreme Court held that Preamble can be amended subject to the condition that no amendment is done to the basic feature of the Constitution of India."
         },
         {
@@ -83,7 +83,7 @@
                          "C" : "The President",
                          "D" : "The Prime Minister"
             },
-            "correctAnswer" : "The President",
+            "correctAnswer" : "C",
             "Note" : "The President of India has the power to  summon or prorogue the Parliament and dissolve the Lok Sabha. The President  can also summon a joint sitting of both the Houses of Parliament, which is presided over by the Speaker of the Lok Sabha."
         },
         {
@@ -95,7 +95,7 @@
                          "C" : " Vice-President",
                          "D" : "Prime Minister"
             },
-            "correctAnswer" : "Speaker",
+            "correctAnswer" : "A",
             "Note" : "The Speaker and the Deputy Speaker of the Lok Sabha do not take oath of the office. Article 93 of the Indian constitution talks about the Speaker and the Deputy Speaker."
         },
         {
@@ -107,7 +107,7 @@
                          "C" : "Electoral College",
                          "D" : "Members of Lok Sabha"
             },
-            "correctAnswer" : "Electoral College",
+            "correctAnswer" : "C",
             "Note" : "An electoral college especially constituted for the purpose of election of Union Territories to the Rajya Sabha indirectly elects the representatives of Union Territories in the Rajya Sabha . This election is also held as per the system of proportional representation and single transferable vote"
         },
         {
@@ -119,7 +119,7 @@
                          "C" : "263",
                          "D" : "249",
             },
-            "correctAnswer" : "250",
+            "correctAnswer" : "A",
             "Note" : "250 is the maximum strength fixed for Rajya Sabha. 238 out of 250 are to be the representatives of the states and union territories that are elected indirectly; and 12 are nominated by the President."
         }
     ]
